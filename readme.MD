@@ -6,7 +6,7 @@ Requisitos:
 - Fazer download do kubectl: https://kubernetes.io/docs/tasks/tools/
 
 Executar:
-terraform apply --auto-approve
-cp kubeconfig cp kubeconfig ~/.kube/config
+- terraform apply --auto-approve
+- cp kubeconfig ~/.kube/config
 
 Pronto, estará com seu cluster EKS rodando e sendo acessivel via terminal.
