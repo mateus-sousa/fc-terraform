@@ -3,3 +3,6 @@ ap:
 
 aa:
 	terraform apply --auto-approve
+
+make dt:
+	terraform destroy
