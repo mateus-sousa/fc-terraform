@@ -1,8 +1,3 @@
-old/.terraform/*
-old/src/*
-old/.terraform.lock.hcl
-old/terraform.tfstate
-old/terraform.tfstate.backup
 src/*
 .terraform/*
 .terraform.lock.hcl
